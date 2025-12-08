@@ -26,6 +26,7 @@ install.packages("liquidbiopsyR")
 
 ### User manual
 
-This package’s user manual can be seen at <https://github.com/Mayooran1987/liquidbiopsyR/blob/main/dilutionrisk_0.0.1.pdf>
+This package’s user manual can be seen at <https://github.com/Mayooran1987/liquidbiopsyR/blob/main/liquidbiopsyR_0.0.1.pdf>
+
 
 
